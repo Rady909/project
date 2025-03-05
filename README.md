@@ -25,12 +25,12 @@ Users can scan **any random product (electronics, food, household items, etc.)**
 ---
 
 ## **Features**  
-**Scan any product using a smartphone camera**  
-**AI-based product recognition using Google Gemini API**  
-**Displays brand, release date, key specifications, and price (if available)**  
-**Works on mobile devices without app installation**  
-**HTTPS support via Ngrok for iOS compatibility**  
-**Supports multiple product categories (smartphones, electronics, food, etc.)**  
+Scan any product using a smartphone camera
+AI-based product recognition using Google Gemini API
+Displays brand, release date, key specifications, and price (if available)
+Works on mobile devices without app installation
+HTTPS support via Ngrok for iOS compatibility
+Supports multiple product categories (smartphones, electronics, food, etc.)
 
 ---
 
@@ -47,8 +47,8 @@ Users can scan **any random product (electronics, food, household items, etc.)**
 
 ---
 
-## **🔧 Setup & Installation**  
+## **Setup & Installation**  
 
-### **1️⃣ Install Dependencies**  
+### **Install Dependencies**  
 ```bash
 pip install flask requests
