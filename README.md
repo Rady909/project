@@ -1,6 +1,8 @@
 # ProdScan - AI-Based Product Identification System  
 
 Repo for demo idea, model, and code for ICT720 course of 2025.
+![Product Flowchart](product_ws/Product.png)
+
 
 ## Team Members  
 
@@ -38,7 +40,7 @@ Supports multiple product categories (smartphones, electronics, food, etc.)
 
 | Component  | Technology Used |
 |------------|----------------|
-| **Frontend (Web UI)** | HTML, JavaScript, WebRTC API |
+| **Frontend (Web UI)** | HTML, WebRTC API |
 | **Backend (API Server)** | Flask (Python) |
 | **AI Model (Product Recognition)** | Google Gemini API |
 | **Camera Access** | WebRTC API (Back Camera) |
